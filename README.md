@@ -1,1 +1,2 @@
 # AEA
+State of the art: https://docs.google.com/document/d/1QUe7bOtOkijb12Jz5rURwQf8cX23mbzFRkY8QvVT5sA/edit?fbclid=IwAR3HqVMwZ4-g53K5fxDeXvyhNJvv6X7jsCXZanffZxr15q5doTcZOBdPUqU_aem_AUB8qAjwCctCFinc9hKRSM1A97b9HnLA6vlHoCuijkfes2zlBygrdd16keL3tY1g6tyid1-0x6l8z4c2K7TJ4c9s
